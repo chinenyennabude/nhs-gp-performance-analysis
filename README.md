@@ -1,6 +1,6 @@
 **NHS GP Appointment Data Analysis (England)**
 
-**📊 Project Overview**
+**Project Overview**
 
 This project analyses publicly available NHS GP appointment data to explore patterns in primary care demand across England. The analysis focuses on transforming complex, non-standard reporting tables into a clean analytical dataset and identifying trends that could support operational planning and healthcare service delivery.
 
@@ -52,3 +52,23 @@ Jupyter Notebook
 VS Code
 
 Git & GitHub – version control
+
+**Analytical Approach**
+
+The workflow followed a structured analytical pipeline:
+
+Loaded raw NHS Excel workbooks
+
+Identified header rows within reporting tables
+
+Restructured datasets into tabular format
+
+Standardised date fields and month variables
+
+Preserved both reporting month labels and datetime formats
+
+Encapsulated cleaning logic into reusable Python functions
+
+Prepared datasets for exploratory analysis and future modelling
+
+This approach mirrors Reproducible Analytical Pipeline (RAP) principles commonly used within UK government analytical professions.
