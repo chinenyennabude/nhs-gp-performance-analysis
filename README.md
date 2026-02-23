@@ -52,23 +52,3 @@ Jupyter Notebook
 VS Code
 
 Git & GitHub – version control
-
-**Analytical Approach**
-
-The workflow followed a structured analytical pipeline:
-
-Loaded raw NHS Excel workbooks
-
-Identified header rows within reporting tables
-
-Restructured datasets into tabular format
-
-Standardised date fields and month variables
-
-Preserved both reporting month labels and datetime formats
-
-Encapsulated cleaning logic into reusable Python functions
-
-Prepared datasets for exploratory analysis and future modelling
-
-This approach mirrors Reproducible Analytical Pipeline (RAP) principles commonly used within UK government analytical professions.
