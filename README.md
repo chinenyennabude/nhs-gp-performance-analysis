@@ -1,6 +1,6 @@
 **NHS GP Appointment Data Analysis (England)**
 
-**Project Overview**
+**📊 Project Overview**
 
 This project analyses publicly available NHS GP appointment data to explore patterns in primary care demand across England. The analysis focuses on transforming complex, non-standard reporting tables into a clean analytical dataset and identifying trends that could support operational planning and healthcare service delivery.
 
@@ -43,12 +43,34 @@ Column names were embedded within rows and required restructuring before analysi
 
 Python
 
-Pandas – data cleaning & transformation
+- Pandas – data cleaning & transformation
 
-NumPy – numerical handling
+- NumPy – numerical handling
 
-Jupyter Notebook
+- Jupyter Notebook
 
-VS Code
+- VS Code
 
-Git & GitHub – version control
+- Git & GitHub – version control
+
+```
+nhs-gp-analysis/
+│
+├── data/
+│   └── raw/
+├── notebooks/
+│   └── explore_nhs_data.ipynb
+├── src/
+│   └── data_cleaning.py
+└── README.md
+```
+
+**Key Insights**
+
+Example:
+
+Appointment demand shows strong seasonal variation
+
+Majority of appointments delivered face-to-face vs remote
+
+Data required restructuring due to reporting format
