@@ -1,6 +1,6 @@
 **NHS GP Appointment Data Analysis (England)**
 
-**📊 Project Overview**
+** Project Overview**
 
 This project analyses publicly available NHS GP appointment data to explore patterns in primary care demand across England. The analysis focuses on transforming complex, non-standard reporting tables into a clean analytical dataset and identifying trends that could support operational planning and healthcare service delivery.
 
@@ -74,3 +74,21 @@ Appointment demand shows strong seasonal variation
 Majority of appointments delivered face-to-face vs remote
 
 Data required restructuring due to reporting format
+
+**Skills Demonstrated**
+
+Data cleaning of real-world public sector datasets
+
+Handling complex Excel reporting structures
+
+Python-based data transformation
+
+Analytical problem framing
+
+Reproducible workflows
+
+Version-controlled analytical development
+
+📌 **About**
+
+This project forms part of my analytics portfolio demonstrating practical application of data analysis techniques using real UK public sector datasets.
