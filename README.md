@@ -99,6 +99,3 @@ Automate monthly ingestion
 
 Build Power BI dashboard
 
-📌 **About**
-
-This project forms part of my analytics portfolio demonstrating practical application of data analysis techniques using real UK public sector datasets.
