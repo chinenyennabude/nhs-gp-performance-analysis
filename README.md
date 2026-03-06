@@ -99,3 +99,6 @@ Automate monthly ingestion
 
 Build Power BI dashboard
 
+## Appointments Trend Analysis
+
+![Appointments Trend](images/appointments-trend.JPG)
