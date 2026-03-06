@@ -8,40 +8,37 @@ Real-world NHS datasets are often distributed in reporting formats rather than a
 
 **Objectives**
 
-Clean and standardise NHS GP appointment datasets
+- Clean and standardise NHS GP appointment datasets
 
-Transform reporting tables into analysis-ready format
+- Transform reporting tables into analysis-ready format
 
-Handle multi-sheet Excel files with non-standard headers
+- Handle multi-sheet Excel files with non-standard headers
 
-Create reusable data cleaning functions
+- Create reusable data cleaning functions
 
-Explore appointment activity trends over time
+- Explore appointment activity trends over time
 
-Apply reproducible analytical workflow principles
+- Apply reproducible analytical workflow principles
 
-**🗂 Dataset**
+**Dataset**
 
 Source: NHS England Open Data
 Dataset: Monthly GP Appointment Statistics
 
 The dataset includes:
 
-Appointment volumes by month
+- Appointment volumes by month
 
-Delivery type (face-to-face, telephone, etc.)
+- Delivery type (face-to-face, telephone, etc.)
 
-National-level operational activity metrics
+- National-level operational activity metrics
 
-Multiple Excel workbooks containing structured reporting tables (e.g., Table 1a)
+- Multiple Excel workbooks containing structured reporting tables (e.g., Table 1a)
 
-Key challenge:
-
-Column names were embedded within rows and required restructuring before analysis.
 
 **🛠 Tools & Technologies**
 
-Python
+- Python
 
 - Pandas – data cleaning & transformation
 
@@ -65,40 +62,40 @@ nhs-gp-analysis/
 └── README.md
 ```
 
-**Key Insights**
-
-Example:
-
-Appointment demand shows strong seasonal variation
-
-Majority of appointments delivered face-to-face vs remote
-
-Data required restructuring due to reporting format
-
-**Skills Demonstrated**
-
-Data cleaning of real-world public sector datasets
-
-Handling complex Excel reporting structures
-
-Python-based data transformation
-
-Analytical problem framing
-
-Reproducible workflows
-
-Version-controlled analytical development
-
-**Future Improvements**
-
-Shows analytical maturity:
-
-Add forecasting model
-
-Automate monthly ingestion
-
-Build Power BI dashboard
+## Visualisation
 
 ## Appointments Trend Analysis
 
+# Key insights
+- Appointment volumes increased significantly between 2021 and 2023 
+- A notable demand spike in 2023 suggests periods of heightened service pressure 
+- Demand stabilises after 2023 but remains consistently high
+
+
 ![Appointments Trend](images/appointments-trend.JPG)
+
+## Distribution of GP Appointments by waiting time
+
+![Distribution of GP appointments by waiting time in days, showing appointment volumes across same-day, 1-7 days, 8-14 days, and 15+ days categories. The chart indicates that the majority of appointments are completed on the same day or within one week, with progressively fewer appointments in longer waiting time brackets.](images/appointment_by_waiting_time.JPG)
+
+**Skills Demonstrated**
+
+- Data cleaning of real-world public sector datasets
+
+- Handling complex Excel reporting structures
+
+- Python-based data transformation
+
+- Analytical problem framing
+
+- Reproducible workflows
+
+- Version-controlled analytical development
+
+**Future Improvements**
+
+- Add forecasting model
+
+- Automate monthly ingestion
+
+- Build Power BI dashboard
