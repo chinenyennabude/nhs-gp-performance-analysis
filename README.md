@@ -62,9 +62,9 @@ nhs-gp-analysis/
 └── README.md
 ```
 
-## Visualisation
+## Visualisations
 
-## Appointments Trend Analysis
+## 1. Appointments Trend Analysis
 
 # Key insights
 - Appointment volumes increased significantly between 2021 and 2023 
@@ -74,9 +74,14 @@ nhs-gp-analysis/
 
 ![Appointments Trend](images/appointments-trend.JPG)
 
-## Distribution of GP Appointments by waiting time
+## 2. Distribution of GP Appointments by waiting time
 
-![Distribution of GP appointments by waiting time in days, showing appointment volumes across same-day, 1-7 days, 8-14 days, and 15+ days categories. The chart indicates that the majority of appointments are completed on the same day or within one week, with progressively fewer appointments in longer waiting time brackets.](images/appointment_by_waiting_time.JPG)
+# Key observation
+- Majority of appointments occur on the same day or within 7 days 
+- This suggests strong access to urgent primary care services
+- A smaller propordtion fall into longer waiting categories (15+ ays).
+
+![Distribution of GP appointments by waiting time in days.](images/appointment_by_waiting_time.JPG)
 
 **Skills Demonstrated**
 
