@@ -62,11 +62,11 @@ nhs-gp-analysis/
 └── README.md
 ```
 
-## Visualisations
+# Visualisations
 
 ## 1. Appointments Trend Analysis
 
-# Key insights
+## Key insights
 - Appointment volumes increased significantly between 2021 and 2023 
 - A notable demand spike in 2023 suggests periods of heightened service pressure 
 - Demand stabilises after 2023 but remains consistently high
@@ -76,12 +76,12 @@ nhs-gp-analysis/
 
 ## 2. Distribution of GP Appointments by waiting time
 
-# Key observation
+## Key observation
 - Majority of appointments occur on the same day or within 7 days 
 - This suggests strong access to urgent primary care services
 - A smaller propordtion fall into longer waiting categories (15+ ays).
 
-![Distribution of GP appointments by waiting time in days.](images/appointment_by_waiting_time.JPG)
+![Appointments by waiting time](images/appointments_by_waiting_time.JPG)
 
 **Skills Demonstrated**
 
