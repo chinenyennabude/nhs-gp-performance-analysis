@@ -64,7 +64,7 @@ nhs-gp-analysis/
 
 # Visualisations
 
-## 1. Appointments Trend Analysis
+## 1. Appointment volume Trend Analysis
 
 ## Key insights
 - Appointment volumes increased significantly between 2021 and 2023 
