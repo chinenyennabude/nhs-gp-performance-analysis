@@ -1,6 +1,6 @@
 **NHS GP Appointment Data Analysis (England)**
 
-** Project Overview**
+**Project Overview**
 
 This project analyses publicly available NHS GP appointment data to explore patterns in primary care demand across England. The analysis focuses on transforming complex, non-standard reporting tables into a clean analytical dataset and identifying trends that could support operational planning and healthcare service delivery.
 
