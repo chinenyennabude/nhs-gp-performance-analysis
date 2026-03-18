@@ -47,6 +47,7 @@ The dataset includes:
 - Jupyter Notebook
 
 - VS Code
+- PowerBI
 
 - Git & GitHub – version control
 
