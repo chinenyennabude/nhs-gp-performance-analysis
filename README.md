@@ -29,7 +29,7 @@ The dataset includes:
 
 - Appointment volumes by month
 
-- Delivery type (face-to-face, telephone, etc.)
+- Delivery type (face-to-face, telephone, Video etc.)
 
 - National-level operational activity metrics
 
