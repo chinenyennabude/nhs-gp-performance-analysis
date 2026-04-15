@@ -36,7 +36,7 @@ The dataset includes:
 - Multiple Excel workbooks containing structured reporting tables (e.g., Table 1a)
 
 
-**🛠 Tools & Technologies**
+**🛠 Tools**
 
 - Python
 
