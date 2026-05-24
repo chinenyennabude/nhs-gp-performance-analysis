@@ -100,7 +100,7 @@ nhs-gp-analysis/
 
 **Future Improvements**
 
-- Add forecasting model
+- Build forecasting model
 
 - Automate monthly ingestion
 
