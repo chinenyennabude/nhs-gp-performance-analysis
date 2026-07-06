@@ -1,4 +1,4 @@
-**NHS GP Appointment Data Analysis (England)**
+**NHS GP Appointments Data Analysis (England)**
 
 **Project Overview**
 
